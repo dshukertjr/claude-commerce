@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Classic White T-Shirt",
+        "category": "Tops",
+        "description": "A versatile and comfortable cotton t-shirt for everyday wear.",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "name": "Slim Fit Jeans",
+        "category": "Bottoms",
+        "description": "Modern slim fit jeans in a dark wash, perfect for casual outings.",
+        "price": 59.99
+    },
+    {
+        "id": 3,
+        "name": "Floral Summer Dress",
+        "category": "Dresses",
+        "description": "Light and breezy floral print dress, ideal for warm summer days.",
+        "price": 49.99
+    },
+    {
+        "id": 4,
+        "name": "Leather Biker Jacket",
+        "category": "Outerwear",
+        "description": "Edgy and stylish leather jacket with silver hardware.",
+        "price": 199.99
+    },
+    {
+        "id": 5,
+        "name": "Striped Polo Shirt",
+        "category": "Tops",
+        "description": "Classic striped polo shirt in breathable cotton pique fabric.",
+        "price": 34.99
+    },
+    {
+        "id": 6,
+        "name": "High-Waisted Shorts",
+        "category": "Bottoms",
+        "description": "Trendy high-waisted denim shorts with a distressed finish.",
+        "price": 39.99
+    },
+    {
+        "id": 7,
+        "name": "Silk Blouse",
+        "category": "Tops",
+        "description": "Elegant silk blouse with a relaxed fit and button-up front.",
+        "price": 89.99
+    },
+    {
+        "id": 8,
+        "name": "Tailored Blazer",
+        "category": "Outerwear",
+        "description": "Sophisticated blazer for a polished look at work or special events.",
+        "price": 129.99
+    },
+    {
+        "id": 9,
+        "name": "Maxi Skirt",
+        "category": "Bottoms",
+        "description": "Flowing maxi skirt with a bohemian print, perfect for summer evenings.",
+        "price": 54.99
+    },
+    {
+        "id": 10,
+        "name": "Oversized Sweater",
+        "category": "Tops",
+        "description": "Cozy oversized knit sweater for chilly days and nights.",
+        "price": 69.99
+    },
+    {
+        "id": 11,
+        "name": "Leather Ankle Boots",
+        "category": "Shoes",
+        "description": "Classic leather ankle boots with a small heel and side zipper.",
+        "price": 149.99
+    },
+    {
+        "id": 12,
+        "name": "Printed Scarf",
+        "category": "Accessories",
+        "description": "Soft and lightweight scarf with a unique geometric print.",
+        "price": 24.99
+    },
+    {
+        "id": 13,
+        "name": "Denim Jacket",
+        "category": "Outerwear",
+        "description": "Timeless denim jacket in a medium wash with brass buttons.",
+        "price": 79.99
+    },
+    {
+        "id": 14,
+        "name": "Wrap Dress",
+        "category": "Dresses",
+        "description": "Flattering wrap dress in a solid color, suitable for various occasions.",
+        "price": 69.99
+    },
+    {
+        "id": 15,
+        "name": "Chino Pants",
+        "category": "Bottoms",
+        "description": "Comfortable and versatile chino pants in a range of colors.",
+        "price": 49.99
+    },
+    {
+        "id": 16,
+        "name": "Statement Necklace",
+        "category": "Accessories",
+        "description": "Eye-catching statement necklace to elevate any outfit.",
+        "price": 39.99
+    },
+    {
+        "id": 17,
+        "name": "Leather Tote Bag",
+        "category": "Accessories",
+        "description": "Spacious leather tote bag for work or weekend errands.",
+        "price": 119.99
+    },
+    {
+        "id": 18,
+        "name": "Linen Shirt",
+        "category": "Tops",
+        "description": "Breathable linen shirt for a relaxed and effortless look.",
+        "price": 59.99
+    },
+    {
+        "id": 19,
+        "name": "Pencil Skirt",
+        "category": "Bottoms",
+        "description": "Classic pencil skirt for a sleek and professional appearance.",
+        "price": 44.99
+    },
+    {
+        "id": 20,
+        "name": "Aviator Sunglasses",
+        "category": "Accessories",
+        "description": "Timeless aviator sunglasses with UV protection.",
+        "price": 89.99
+    },
+    {
+        "id": 21,
+        "name": "Hooded Sweatshirt",
+        "category": "Tops",
+        "description": "Comfortable hooded sweatshirt for casual, laid-back days.",
+        "price": 44.99
+    },
+    {
+        "id": 22,
+        "name": "Pleated Midi Skirt",
+        "category": "Bottoms",
+        "description": "Elegant pleated midi skirt in a metallic fabric for special occasions.",
+        "price": 79.99
+    },
+    {
+        "id": 23,
+        "name": "Crew Neck Sweater",
+        "category": "Tops",
+        "description": "Classic crew neck sweater in a soft, warm knit.",
+        "price": 54.99
+    },
+    {
+        "id": 24,
+        "name": "Wide-Leg Trousers",
+        "category": "Bottoms",
+        "description": "Stylish wide-leg trousers for a modern, sophisticated look.",
+        "price": 69.99
+    },
+    {
+        "id": 25,
+        "name": "Leather Belt",
+        "category": "Accessories",
+        "description": "Quality leather belt with a sleek buckle for everyday wear.",
+        "price": 34.99
+    },
+    {
+        "id": 26,
+        "name": "Off-Shoulder Top",
+        "category": "Tops",
+        "description": "Trendy off-shoulder top in a light, airy fabric.",
+        "price": 39.99
+    },
+    {
+        "id": 27,
+        "name": "Cargo Pants",
+        "category": "Bottoms",
+        "description": "Utilitarian-inspired cargo pants with multiple pockets.",
+        "price": 59.99
+    },
+    {
+        "id": 28,
+        "name": "Trench Coat",
+        "category": "Outerwear",
+        "description": "Classic trench coat for a timeless, sophisticated look.",
+        "price": 169.99
+    },
+    {
+        "id": 29,
+        "name": "Knit Beanie",
+        "category": "Accessories",
+        "description": "Warm knit beanie for cold weather protection and style.",
+        "price": 19.99
+    },
+    {
+        "id": 30,
+        "name": "Sleeveless Blouse",
+        "category": "Tops",
+        "description": "Versatile sleeveless blouse perfect for layering or warm days.",
+        "price": 44.99
+    },
+    {
+        "id": 31,
+        "name": "Leather Crossbody Bag",
+        "category": "Accessories",
+        "description": "Compact leather crossbody bag for everyday essentials.",
+        "price": 79.99
+    },
+    {
+        "id": 32,
+        "name": "Printed Jumpsuit",
+        "category": "Dresses",
+        "description": "Eye-catching printed jumpsuit for a bold, fashion-forward look.",
+        "price": 89.99
+    },
+    {
+        "id": 33,
+        "name": "Canvas Sneakers",
+        "category": "Shoes",
+        "description": "Comfortable canvas sneakers for casual, everyday wear.",
+        "price": 49.99
+    },
+    {
+        "id": 34,
+        "name": "Lace Camisole",
+        "category": "Tops",
+        "description": "Delicate lace camisole for a touch of femininity.",
+        "price": 29.99
+    },
+    {
+        "id": 35,
+        "name": "Tailored Shorts",
+        "category": "Bottoms",
+        "description": "Sophisticated tailored shorts for a polished summer look.",
+        "price": 54.99
+    },
+    {
+        "id": 36,
+        "name": "Leather Gloves",
+        "category": "Accessories",
+        "description": "Soft leather gloves for warmth and style in colder months.",
+        "price": 59.99
+    },
+    {
+        "id": 37,
+        "name": "Turtleneck Sweater",
+        "category": "Tops",
+        "description": "Cozy turtleneck sweater for ultimate comfort and warmth.",
+        "price": 64.99
+    },
+    {
+        "id": 38,
+        "name": "A-Line Skirt",
+        "category": "Bottoms",
+        "description": "Classic A-line skirt in a versatile solid color.",
+        "price": 49.99
+    },
+    {
+        "id": 39,
+        "name": "Leather Loafers",
+        "category": "Shoes",
+        "description": "Sleek leather loafers for a sophisticated casual or work look.",
+        "price": 109.99
+    },
+    {
+        "id": 40,
+        "name": "Cropped Tank Top",
+        "category": "Tops",
+        "description": "Trendy cropped tank top for warm weather or layering.",
+        "price": 24.99
+    },
+    {
+        "id": 41,
+        "name": "Puffer Jacket",
+        "category": "Outerwear",
+        "description": "Warm and lightweight puffer jacket for cold weather.",
+        "price": 129.99
+    },
+    {
+        "id": 42,
+        "name": "Leather Wallet",
+        "category": "Accessories",
+        "description": "Slim leather wallet with multiple card slots and a coin pocket.",
+        "price": 49.99
+    },
+    {
+        "id": 43,
+        "name": "Ruffled Blouse",
+        "category": "Tops",
+        "description": "Feminine ruffled blouse in a lightweight, flowing fabric.",
+        "price": 54.99
+    },
+    {
+        "id": 44,
+        "name": "Jogger Pants",
+        "category": "Bottoms",
+        "description": "Comfortable jogger pants for athleisure or loungewear.",
+        "price": 44.99
+    },
+    {
+        "id": 45,
+        "name": "Straw Sun Hat",
+        "category": "Accessories",
+        "description": "Wide-brimmed straw sun hat for beach days and summer outings.",
+        "price": 34.99
+    },
+    {
+        "id": 46,
+        "name": "Denim Shirt",
+        "category": "Tops",
+        "description": "Versatile denim shirt that can be dressed up or down.",
+        "price": 59.99
+    },
+    {
+        "id": 47,
+        "name": "Palazzo Pants",
+        "category": "Bottoms",
+        "description": "Flowing palazzo pants for a comfortable yet elegant look.",
+        "price": 69.99
+    },
+    {
+        "id": 48,
+        "name": "Strappy Sandals",
+        "category": "Shoes",
+        "description": "Elegant strappy sandals with a low heel for everyday wear.",
+        "price": 79.99
+    },
+    {
+        "id": 49,
+        "name": "Cardigan Sweater",
+        "category": "Tops",
+        "description": "Versatile cardigan sweater for layering in various seasons.",
+        "price": 49.99
+    },
+    {
+        "id": 50,
+        "name": "Quilted Vest",
+        "category": "Outerwear",
+        "description": "Insulated quilted vest for extra warmth without bulk.",
+        "price": 69.99
+    }
+]
